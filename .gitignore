@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# macOS
+.DS_Store
+
+# logs
+*.log
+
+# build output
+dist/
+build/
+
+# optional: VSCode settings
+.vscode/
